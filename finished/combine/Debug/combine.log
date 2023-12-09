@@ -1,0 +1,206 @@
+﻿  admin.c
+D:\TARC\pcd2\finished\combine\admin.c(102,17): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\admin.c(272,34): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[6]'
+D:\TARC\pcd2\finished\combine\admin.c(272,19): warning C4024: 'checkID': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\admin.c(310,15): warning C4550: expression evaluates to a function which is missing an argument list
+D:\TARC\pcd2\finished\combine\admin.c(455,11): warning C4550: expression evaluates to a function which is missing an argument list
+D:\TARC\pcd2\finished\combine\admin.c(457,33): warning C4550: expression evaluates to a function which is missing an argument list
+D:\TARC\pcd2\finished\combine\admin.c(321,38): warning C4101: 'searchNum': unreferenced local variable
+D:\TARC\pcd2\finished\combine\admin.c(557,17): warning C4101: 'rtn': unreferenced local variable
+D:\TARC\pcd2\finished\combine\admin.c(645,2): warning C4550: expression evaluates to a function which is missing an argument list
+D:\TARC\pcd2\finished\combine\admin.c(613,52): warning C4101: 'yesNo': unreferenced local variable
+  Entrance.c
+D:\TARC\pcd2\finished\combine\Entrance.c(11,6): warning C4552: '+': result of expression not used
+D:\TARC\pcd2\finished\combine\Entrance.c(133,8): warning C4101: 'fptr': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(132,18): warning C4101: 'entry': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(133,16): warning C4101: 'fp': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(202,29): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\Entrance.c(267,24): warning C4129: '-': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\Entrance.c(180,33): warning C4101: 'feedback': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(182,138): warning C4101: 'intCheck': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(213,8): warning C4101: 'fptr': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(182,90): warning C4101: 'feed': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(182,23): warning C4101: 'reason': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(179,132): warning C4101: 'venueOption': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(170,10): warning C4101: 'reserveV': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(182,100): warning C4101: 'rate': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(180,43): warning C4101: 'rating': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(619,29): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\Entrance.c(651,27): warning C4129: '-': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\Entrance.c(603,58): warning C4101: 'type': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(601,29): warning C4101: 'choice': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(603,23): warning C4101: 'reason': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(603,35): warning C4101: 'record': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(601,98): warning C4101: 'cough': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(603,54): warning C4101: 'ch': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(603,43): warning C4101: 'confirmID': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(964,29): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\Entrance.c(1079,22): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\Entrance.c(1593,34): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\TARC\pcd2\finished\combine\Entrance.c(1505,7): warning C4101: 'choice': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1505,27): warning C4101: 'update': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1503,102): warning C4101: 'nTotalHour': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1505,15): warning C4101: 'record': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1505,74): warning C4101: 'improvement': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1502,58): warning C4101: 'option': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1504,18): warning C4101: 'totalInmins': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1504,3): warning C4101: 'totalExitmins': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1901,2): warning C4033: 'deleteIndex' must return a value
+D:\TARC\pcd2\finished\combine\Entrance.c(1905,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+D:\TARC\pcd2\finished\combine\Entrance.c(1907,9): warning C4101: 'sTemp': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(1905,52): warning C4101: 'next': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2417,8): warning C4101: 'venueId': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2417,50): warning C4101: 'vId': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2416,88): warning C4101: 'option': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2417,72): warning C4101: 'totalMins': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2417,30): warning C4101: 'ch': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2553,41): warning C4101: 'feedback': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2553,8): warning C4101: 'low': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2553,27): warning C4101: 'moderate': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2553,55): warning C4101: 'rating': unreferenced local variable
+D:\TARC\pcd2\finished\combine\Entrance.c(2553,17): warning C4101: 'high': unreferenced local variable
+  main.c
+  sanitization.c
+D:\TARC\pcd2\finished\combine\sanitization.c(59,20): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(373,49): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(447,22): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(456,22): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(472,23): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(481,23): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(502,22): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(511,22): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(527,23): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(536,23): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(814,50): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(834,68): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(638,17): warning C4101: 'name': unreferenced local variable
+D:\TARC\pcd2\finished\combine\sanitization.c(638,7): warning C4101: 'numID': unreferenced local variable
+D:\TARC\pcd2\finished\combine\sanitization.c(955,21): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(1056,21): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(1164,21): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(1278,21): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(1391,66): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(1474,66): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(1560,66): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(1652,66): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(1694,21): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(1706,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\TARC\pcd2\finished\combine\sanitization.c(1642,23): warning C4101: 'p': unreferenced local variable
+D:\TARC\pcd2\finished\combine\sanitization.c(1754,7): warning C4101: 'option': unreferenced local variable
+D:\TARC\pcd2\finished\combine\sanitization.c(1881,66): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(2232,24): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(2241,24): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(2257,25): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(2266,25): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(2287,24): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(2296,24): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(2312,25): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(2321,25): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\sanitization.c(1842,23): warning C4101: 'p': unreferenced local variable
+D:\TARC\pcd2\finished\combine\sanitization.c(2565,67): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\sanitization.c(2791,14): warning C4013: 'monthInEng' undefined; assuming extern returning int
+D:\TARC\pcd2\finished\combine\sanitization.c(2675,17): warning C4101: 'fptrPR': unreferenced local variable
+D:\TARC\pcd2\finished\combine\sanitization.c(2676,23): warning C4101: 'pRecord': unreferenced local variable
+  venue.c
+D:\TARC\pcd2\finished\combine\venue.c(93,24): warning C4129: '-': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\venue.c(97,37): warning C4020: 'strcmp': too many actual parameters
+D:\TARC\pcd2\finished\combine\venue.c(118,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(118,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(119,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(119,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(120,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(120,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(121,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(121,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(122,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(122,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(123,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(123,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(124,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(124,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(125,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(125,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(126,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(126,18): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(127,33): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[25]'
+D:\TARC\pcd2\finished\combine\venue.c(127,19): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(335,12): warning C4098: 'addVenue': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(81,7): warning C4101: 'checkCount': unreferenced local variable
+D:\TARC\pcd2\finished\combine\venue.c(592,42): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+D:\TARC\pcd2\finished\combine\venue.c(592,14): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(593,40): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+D:\TARC\pcd2\finished\combine\venue.c(593,14): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(933,42): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+D:\TARC\pcd2\finished\combine\venue.c(933,14): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(934,40): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[100]'
+D:\TARC\pcd2\finished\combine\venue.c(934,14): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(956,12): warning C4098: 'modifyVenue': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(982,12): warning C4098: 'modifyVenue': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(343,7): warning C4101: 'checkId': unreferenced local variable
+D:\TARC\pcd2\finished\combine\venue.c(1375,11): warning C4098: 'searchVenue': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(1388,12): warning C4098: 'searchVenue': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(1470,13): warning C4098: 'displayVenue': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(1742,12): warning C4098: 'deleteVenue': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(1759,20): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\venue.c(1843,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+D:\TARC\pcd2\finished\combine\venue.c(1843,15): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(1848,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+D:\TARC\pcd2\finished\combine\venue.c(1848,15): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(1857,68): warning C4047: '!=': 'size_t' differs in levels of indirection from 'void *'
+D:\TARC\pcd2\finished\combine\venue.c(1887,24): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+D:\TARC\pcd2\finished\combine\venue.c(1887,17): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(1897,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+D:\TARC\pcd2\finished\combine\venue.c(1897,16): warning C4024: 'strcpy': different types for formal and actual parameter 1
+D:\TARC\pcd2\finished\combine\venue.c(1908,10): warning C4098: 'updateStatus': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\venue.c(1789,3): warning C4101: 's': unreferenced local variable
+D:\TARC\pcd2\finished\combine\venue.c(1809,7): warning C4101: 'test': unreferenced local variable
+  visitor.c
+D:\TARC\pcd2\finished\combine\visitor.c(39,20): warning C4018: '<': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\visitor.c(64,15): warning C4018: '>=': signed/unsigned mismatch
+D:\TARC\pcd2\finished\combine\visitor.c(319,27): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(319,27): warning C4477: 'fscanf' : format string '%[^|]' requires an argument of type 'char *', but variadic argument 11 has type 'int *'
+D:\TARC\pcd2\finished\combine\visitor.c(828,9): warning C4013: 'main' undefined; assuming extern returning int
+D:\TARC\pcd2\finished\combine\visitor.c(856,32): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(925,12): warning C4098: 'visitorRegisterAccount': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(927,11): warning C4098: 'visitorRegisterAccount': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(959,35): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1001,12): warning C4098: 'displayRecordFunction': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(1121,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1202,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1283,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1361,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1417,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1493,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1572,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1633,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1710,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1774,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1841,31): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(1874,13): warning C4098: 'searchFunction': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(1911,13): warning C4098: 'searchFunction': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(2020,30): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(2131,14): warning C4098: 'deleteFunction': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(2139,14): warning C4098: 'deleteFunction': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(2200,29): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(2350,26): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 9 has type 'char *'
+D:\TARC\pcd2\finished\combine\visitor.c(2350,26): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 12 has type 'int'
+D:\TARC\pcd2\finished\combine\visitor.c(2350,26): warning C4473: 'fprintf' : not enough arguments passed for format string
+D:\TARC\pcd2\finished\combine\visitor.c(2350,26): message : placeholders and their parameters expect 13 variadic arguments, but 12 were provided
+D:\TARC\pcd2\finished\combine\visitor.c(2350,26): message : the missing variadic argument 13 is required by format string '%d'
+D:\TARC\pcd2\finished\combine\visitor.c(2372,30): warning C4047: '==': 'int' differs in levels of indirection from 'char [2]'
+D:\TARC\pcd2\finished\combine\visitor.c(2406,13): warning C4098: 'modifyFunction': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(2444,13): warning C4098: 'modifyFunction': 'void' function returning a value
+D:\TARC\pcd2\finished\combine\visitor.c(2360,9): warning C4102: 'case3': unreferenced label
+D:\TARC\pcd2\finished\combine\visitor.c(2491,29): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(2586,35): warning C4129: '|': unrecognized character escape sequence
+D:\TARC\pcd2\finished\combine\visitor.c(2620,12): warning C4098: 'displayAdminRecordFunction': 'void' function returning a value
+  Generating Code...
+D:\TARC\pcd2\finished\combine\visitor.c(165): warning C4716: 'h2HorizontalRule': must return a value
+D:\TARC\pcd2\finished\combine\visitor.c(169): warning C4716: 'h1HorizontalRule': must return a value
+D:\TARC\pcd2\finished\combine\visitor.c(173): warning C4716: 'h3HorizontalRule': must return a value
+D:\TARC\pcd2\finished\combine\Entrance.c(7): warning C4716: 'sound': must return a value
+D:\TARC\pcd2\finished\combine\Entrance.c(76): warning C4716: 'action': must return a value
+D:\TARC\pcd2\finished\combine\Entrance.c(1902): warning C4715: 'deleteIndex': not all control paths return a value
+D:\TARC\pcd2\finished\combine\admin.c(260): warning C4715: 'checkID': not all control paths return a value
+  header.h
+  combine.vcxproj -> D:\TARC\pcd2\finished\Debug\combine.exe
